@@ -13,5 +13,5 @@ My interests include machine learning, artificial intelligence, and trustworthy 
 
 ## Education
 
-* **2026 - present** : Masters in Computer Science | University of Virginia
-* **2023 - 2026** : Bachelors in Computer Science | Dakota State University
+- **2026 – Present:** Master's in Computer Science, University of Virginia
+- **2023 – 2026:** Bachelor's in Computer Science, Dakota State University
