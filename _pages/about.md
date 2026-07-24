@@ -7,11 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Master's student in Computer Science at the University of Virginia.
+## 🙋‍♂️ About Me
 
-My interests include machine learning, artificial intelligence, and trustworthy AI. I am currently pursuing a thesis-based M.S. degree and am interested in ML researches. 
+I'm a Master's student in Computer Science at the **University of Virginia**.
 
-## Education
+My interests include machine learning, artificial intelligence, and trustworthy AI. I am currently pursuing a thesis-based M.S. degree and am interested in machine learning research. 
+
+## 🎓 Education
 
 - **2026 – Present:** Master's in Computer Science, University of Virginia
 - **2023 – 2026:** Bachelor's in Computer Science, Dakota State University
+  - Specialization: Artificial Intelligence & Machine Learning
+  - Summa Cum Laude \| GPA: 3.95 \| Major GPA: 4.0
+
+
