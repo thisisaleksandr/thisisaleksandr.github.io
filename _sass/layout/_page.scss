@@ -43,7 +43,9 @@
     margin-top: -0.5em;
   }
 }
-
+.page__inner-wrap header {
+    display: none;
+}
 .page__lead {
   font-family: $global-font-family;
   font-size: $type-size-4;
