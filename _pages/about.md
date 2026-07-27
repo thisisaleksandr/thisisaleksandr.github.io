@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## 🙋‍♂️ About Me
-
 I'm a Master's student in Computer Science at the **University of Virginia**.
 
 My interests include machine learning, artificial intelligence, and trustworthy AI. I am currently pursuing a thesis-based M.S. degree and am interested in machine learning research. 
